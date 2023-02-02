@@ -1,6 +1,6 @@
 # Game Station
 
-Pequeno catálogo de 4 categorias diferentes com 4 jogos em cada
+Pequeno catálogo de 4 categorias diferentes com 4 jogos em cada.
 
 Categorias:
 
@@ -9,7 +9,8 @@ Categorias:
 - Terror
 - Indie
 
-Link para acessar: 
+Link para acessar: https://yuuy314.github.io/Game-Station/
+
 CodePen: https://codepen.io/YuuY314/pen/OJwrOmQ
 
 ## Imersão Dev
